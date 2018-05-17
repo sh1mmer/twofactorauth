@@ -1,0 +1,10 @@
+websites:
+  - name: Google Docs
+    url: https://docs.google.com
+    img: drive.png
+    tfa: Yes
+    sms: Yes
+    phone: Yes
+    software: Yes
+    hardware: Yes
+    doc: https://www.google.com/intl/en-US/landing/2step/features.html
